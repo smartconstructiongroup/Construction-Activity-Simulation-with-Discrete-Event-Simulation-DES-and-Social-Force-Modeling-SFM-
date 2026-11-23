@@ -1,10 +1,10 @@
 # Construction-Activity-Simulation-with-Discrete-Event-Simulation-DES-and-Social-Force-Modeling-SFM-
-Description:
+# Description:
 This program simulates the process of building interior walls in a building using a combination of discrete event simulation (DES) and social force modeling (SFM). The goal of this research is to develop a model that can accurately represent the construction process and its impact on productivity. To achieve this, two main approaches are integrated: DES for modeling the work process and SFM for modeling the dynamic movement of workers, with specific emphasis on workspace congestion.
-Key Features:
-•	Work Process Modeling: DES is utilized to model the sequential steps involved in the wall building process, including task duration, resource requirements, and dependencies.
-•	Dynamic Workspace and Worker Movement: SFM is employed to simulate the real-time movement of workers within the workspace, considering their interactions and the resulting congestion.
-•	Crew Size Analysis: The program allows for analyzing the impact of crew size on productivity, particularly in terms of workspace congestion and worker interactions.
+# Key Features:
+Work Process Modeling: DES is utilized to model the sequential steps involved in the wall building process, including task duration, resource requirements, and dependencies.
+Dynamic Workspace and Worker Movement: SFM is employed to simulate the real-time movement of workers within the workspace, considering their interactions and the resulting congestion.
+Crew Size Analysis: The program allows for analyzing the impact of crew size on productivity, particularly in terms of workspace congestion and worker interactions.
 
 Installation:
 The only requirement is a working installation of Python 3.x. Additionally, you'll need to install the following libraries:
